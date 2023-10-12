@@ -1,1 +1,2 @@
 # Creating_Fractions_and_Complex_Numbers
+# In this program I am writing a class that is designed to combine the concepts of integer fractions and complex numbers. My class will implement the FractionalComplex number class, and allow for the class to implement the necessary overloaded functions and operators. I am overloading many different operators to give the result I want when I call on them in the main.
