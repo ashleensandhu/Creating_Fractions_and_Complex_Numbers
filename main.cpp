@@ -4,14 +4,11 @@
  *
  * This file is the primary file for use with the student created
  * class FractionalComplex class.   It is designed to test
- * all of the possible operators needed for that class.
+ * all of the possible operators needed.
  *
  * it is divded into pieces so that it can be done in sections.
  * each "section" contains different parts of the requirement.
  *
- * Students may only alter this file by removing commented sections
- * as they implement more and more parts of their code.
- * The primary code should be untouched
  */
 
 
@@ -33,7 +30,7 @@ void section8();
 int main()
 {
     intro();
-	//Uncomment these as you complete various sections.
+	
     section1();
     section2();
     section3();
@@ -51,12 +48,6 @@ void intro()
 {
 
     cout << "* Welcome to the testing class for the FractionalComplex number.";
-    cout << endl;
-    cout << "* By the end of the assignment, every line below must work, but to begin";
-    cout << endl;
-    cout << "* most of the sections are commented off.  Uncomment each section as you";
-    cout << endl;
-    cout << "* get more and more to work : Good Luck!" << endl;
     cout << "************************************************************************"<< endl << endl;
 }
 
